@@ -1,2 +1,2 @@
-# about-me
-My first github project
+# About Me  My name is **Logan
+Fire, gaming, and lacrosse
